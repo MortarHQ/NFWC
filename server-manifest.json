@@ -1,7 +1,7 @@
 {
-  "name": "No Flesh Within Chest",
+  "name": "No Flesh Within Chest（客户端制作）",
   "author": "mortar",
-  "version": "0.3.2",
+  "version": "0.3.2_mortar1",
   "description": "",
   "fileApi": "https://www.landmine.top/mc/nfwc",
   "files": [
@@ -1727,7 +1727,7 @@
     },
     {
       "path": "config/oculus.properties",
-      "hash": "f70cfe84341e2c53a29eaa0644db1552ac6d4c46"
+      "hash": "3bdbc4af6acd0f605caed6bb45e504cc5c48b560"
     },
     {
       "path": "config/overflowingbars-client.toml",
@@ -1923,7 +1923,7 @@
     },
     {
       "path": "hmclversion.cfg",
-      "hash": "3797b0e6efa2312e0acc4185233023daf1723ae7"
+      "hash": "2114158ed04fc0bc7a6dbfeff4816d62e480a039"
     },
     {
       "path": "kubejs/assets/art_of_forging/lang/zh_cn.json",
@@ -6915,7 +6915,7 @@
     },
     {
       "path": "lightspeed-cache/1.19.2/hasResource/archaeology1.0.0-archaeology-api-1.19.2-1.0.0.ser",
-      "hash": "abe49295cb26cc3269167cd7f5d28fa046e30fc0"
+      "hash": "11a56cbc0bbd9c6d3bd91d9091242893a6285935"
     },
     {
       "path": "lightspeed-cache/1.19.2/hasResource/architectury6.6.92-architectury-6.6.92-forge.ser",
@@ -7219,7 +7219,7 @@
     },
     {
       "path": "lightspeed-cache/1.19.2/hasResource/inventoryprofilesnext1.10.10-InventoryProfilesNext-forge-1.19-1.10.10.ser",
-      "hash": "ed6f899dd95d52b8009c21791d9e00405847e8d6"
+      "hash": "4ede47d287e3572f39c5b64d29a7143b05c47011"
     },
     {
       "path": "lightspeed-cache/1.19.2/hasResource/irisflw1.19.2-0.2.1-oculus-flywheel-compat-1.19.2-0.2.1.ser",
@@ -7402,11 +7402,11 @@
       "hash": "1ba6c0fc7c853414b25af4c628c28c34f90b3581"
     },
     {
-      "path": "lightspeed-cache/1.19.2/hasResource/No Flesh Within Chest-client.ser",
-      "hash": "e405a1e8d1f9a299ed56b1c275afebc7452915a6"
+      "path": "lightspeed-cache/1.19.2/hasResource/No Flesh Within Chest（客户端制作）-client.ser",
+      "hash": "720a625f4cdfdb7f8d2c0231043ce4aef9b69e76"
     },
     {
-      "path": "lightspeed-cache/1.19.2/hasResource/No Flesh Within Chest-server.ser",
+      "path": "lightspeed-cache/1.19.2/hasResource/No Flesh Within Chest（客户端制作）-server.ser",
       "hash": "0248b8f5807e7322646b30cefc20ae0a0b29f8ed"
     },
     {
@@ -9011,7 +9011,7 @@
     },
     {
       "path": "resourcepacks/Minecraft-Mod-Language-Modpack-Converted-1.19.2.zip",
-      "hash": "e04db3f6b5b447f86f38152a25087f230cf9ee81"
+      "hash": "38b3fd2e6e478fc3f6ccce2776ab778fb693be98"
     },
     {
       "path": "rhino.local.properties",
@@ -9019,11 +9019,11 @@
     },
     {
       "path": "servers.dat",
-      "hash": "3451866dff9328bfff8caac42f6e7a0a74436f6d"
+      "hash": "fdea82713f79f13e7a906e29da9a854cf4a46d8f"
     },
     {
       "path": "servers.dat_old",
-      "hash": "3baf90a208bc92b903a3ff24fee863b022c4bdf8"
+      "hash": "1b8e2ea400285a3a3a9bdfb315592ee212144f96"
     },
     {
       "path": "TrashSlotSaveState.json",
